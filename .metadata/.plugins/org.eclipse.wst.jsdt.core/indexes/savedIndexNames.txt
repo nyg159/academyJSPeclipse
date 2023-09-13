@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\academy\acdemicJSPecilece\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3023672966.index
+3991023961.index
+954499835.index
+493451422.index
+1359346824.index
+661600371.index

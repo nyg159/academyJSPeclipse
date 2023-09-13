@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+E:\academy\acdemicJSPecilece\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1064276961.index
+\JSP\src
+E:\academy\acdemicJSPecilece\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1214817143.index
+\JSP\src
+E:\academy\acdemicJSPecilece\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3512857293.index
+\JSP\src
+E:\academy\acdemicJSPecilece\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\528741981.index
+\JSP\src
